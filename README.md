@@ -20,5 +20,6 @@
 ### 其他
 
 - [业务死锁排查](./Notes/业务死锁排查.md)
+- [现代 JavaScript 教程](https://zh.javascript.info/)
 
 > 好记性不如烂笔头
