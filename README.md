@@ -20,6 +20,7 @@
 ### 其他
 
 - [业务死锁排查](./Notes/业务死锁排查.md)
-- [文章同步vscode + picgo + github一站式解决方案](./)
+- [vscode + picgo + github一站式markdown文章方案](./)
+- [现代 JavaScript 教程](https://zh.javascript.info/)
 
 > 好记性不如烂笔头
