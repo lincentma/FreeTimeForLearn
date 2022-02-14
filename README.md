@@ -1,6 +1,9 @@
 # FreeTimeForLearn
 所做记所得
 
+### 文档方案
+vscode + picgo + github repo
+
 ### KMS文章分享
 - [Laravel框架项目实践记录](./KMS/Laravel框架项目实践记录.md)
 - [Lapis框架开发总结](./KMS/Lapis框架开发总结.md)
@@ -20,7 +23,6 @@
 ### 其他
 
 - [业务死锁排查](./Notes/业务死锁排查.md)
-- [vscode + picgo + github一站式markdown文章方案](./)
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 
 > 好记性不如烂笔头
