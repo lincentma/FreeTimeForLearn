@@ -20,9 +20,13 @@ vscode + picgo + github repo
 ### 分享PPT
 - [业务耗时分析与SQL优化工具实践](./Share/20200901-业务耗时分析与SQL优化工具实践-马凌.pptx)
 
-### 其他
+### 我的笔记
 
+- [我的工作流](./Notes/我的工作流.md)
 - [业务死锁排查](./Notes/业务死锁排查.md)
+
+### 其他
 - [现代 JavaScript 教程](https://zh.javascript.info/)
+- [exercism](https://exercism.org/dashboard)
 
 > 好记性不如烂笔头
