@@ -19,7 +19,7 @@ vscode + picgo + github repo
 
 ### 分享PPT
 - [业务耗时分析与SQL优化工具实践](./Share/20200901-业务耗时分析与SQL优化工具实践-马凌.pptx)
-- [Nginx简单分享](./Share/Nginx分享-20220928.pptx)
+- [Nginx基础实践总结](./Share/Nginx基础实践总结.pdf)
 
 ### 我的笔记
 
